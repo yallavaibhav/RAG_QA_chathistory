@@ -1,0 +1,10 @@
+langchain
+python-dotenv
+ipykernel
+langchain-community
+pypdf
+bs4
+langchain-groq
+faiss-cpu
+streamlit
+langchain-chroma
